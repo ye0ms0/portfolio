@@ -24,7 +24,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #ffdf3e;
 }
 
 h1,
@@ -65,7 +65,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #ffdf3e;
 }
 
 hr.star-primary {
@@ -230,7 +230,7 @@ section.success a.active {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(255, 223, 62,.9); 
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -284,7 +284,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #ffdf3e;
     background: #fff;
 }
 
@@ -337,7 +337,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #ffdf3e;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -471,7 +471,7 @@ footer .footer-below {
 
 
 #epilogue p { font-size: 16px; text-align: center; color: #999; padding: 10px 0; }
-#epilogue p.slogan { padding: 20px 0; color: #18bc9c; }
+#epilogue p.slogan { padding: 20px 0; color: #ffdf3e; }
 
 
 
@@ -480,7 +480,7 @@ footer .footer-below {
 .profile li { border-top: 1px solid rgba(255,255,255,0.3); }
 .profile li a { color: #fff; }
 
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus { background: transparent; color:#18bc9c; }
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus { background: transparent; color:#ffdf3e; }
 
 
 .skill { margin-top: 20px; }
